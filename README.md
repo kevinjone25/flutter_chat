@@ -1,4 +1,4 @@
-# myapp
+# Chatapp
 
 A new Flutter project with firebase and flutter.
 
